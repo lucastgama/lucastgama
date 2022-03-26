@@ -5,8 +5,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/lucastgama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
