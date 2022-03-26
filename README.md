@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando na Next tecnologia como estagiário.
 - 📚 Estou estudando React.
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/lucastgama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=16&theme=dark"/>
