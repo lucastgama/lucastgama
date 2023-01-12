@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  ![Lucas gama](https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dracula)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dracula"/>
 </div>
 
 <div stile="display:inline-block"><br>
@@ -20,26 +20,13 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img style="height:50px; width:50px;" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </a> 
-      <a href="https://www.typescriptlang.org/">
-    <img style="height:50px; width:50px;" alt="ts-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      </a> 
-       <a href="https://nodejs.dev/learn">
-    <img style="height:50px; width:50px;" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      </a>  
       <a href="https://reactjs.org/">
    <img style="height:50px; width:50px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </a>
-        <a href="https://www.php.net/docs.php">
-   <img style="height:50px; width:50px;" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-        </a>
-        <a href="https://laravel.com/">
-   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-        </a>
       <a href="https://wordpress.com/">
     <img style="height:50px; width:50px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-        </a>       
-  </div>
-
+        </a>
+</div>
   
 <div>
   <h2>Meus Projetos no GitHub</h2> 
