@@ -3,19 +3,22 @@
     <h2> Olá! Sou Lucas Gama, desenvolvedor web 👋</h2>
     <div stile="display:inline-block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img style="height:50px; width:50px;" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img style="height:50px; width:50px;" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img style="height:50px; width:50px;" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      </a>    
+    <img style="height:50px; width:50px;" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </a>
+      <a href="">
+    <img style="height:50px; width:50px;" alt="js-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img style="height:50px; width:50px;" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      </a> 
+    <img style="height:50px; width:50px;" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </a>
       <a href="https://reactjs.org/">
    <img style="height:50px; width:50px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </a>
       <a href="https://wordpress.com/">
-    <img style="height:50px; width:50px;" alt="wordpress-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
+    <img style="height:50px; width:50px;" alt="wordpress-icon" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
         </a>
 </div>
   </div>
