@@ -1,7 +1,6 @@
 <div>
   <div>
-    <h1> Olá! seja bem vindo ao meu GitHub 👋</h1>
-    <h2> Sou Lucas Gama, desenvolvedor web 👨‍💻 </h2>
+    <h2> Olá! Sou Lucas Gama, desenvolvedor web 👋</h2>
     <div stile="display:inline-block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img style="height:50px; width:50px;" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
