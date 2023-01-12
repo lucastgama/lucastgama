@@ -39,5 +39,3 @@
     <li> Atualizando... </li>
   </ul>
 </div>
-
-![Snake animation](https://github.com/lucastgama/lucastgama/blob/output/github-contribution-grid-snake.svg)  
