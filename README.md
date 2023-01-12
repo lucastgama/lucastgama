@@ -25,7 +25,7 @@
     <h2> Status do meu GitHub 💻 </h2>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=radical)
 
 <div>
   <h2>Meus Projetos no GitHub</h2> 
