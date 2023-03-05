@@ -1,6 +1,9 @@
 <div>
   <div>
     <h2> Olá! Sou Lucas Gama, desenvolvedor web 👋</h2>
+    <div align='center'> 
+      <img src="https://user-images.githubusercontent.com/50726344/222936171-76e1b6d1-4884-42d8-aa89-68a2e0d6f1d7.gif" width="500" height="300" alt="dev gif"/>
+    </div>
     <div stile="display:inline-block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
