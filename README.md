@@ -28,7 +28,11 @@
     <h2> Status do meu GitHub 💻 </h2>
 </div>
 
-![Status da minha conta](https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=radical)
+  <div align="center">
+    <a href="https://github.com/lucastgama">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
 <div>
   <h2>Meus Projetos no GitHub</h2> 
