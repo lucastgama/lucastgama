@@ -30,8 +30,8 @@
 
   <div align="center">
     <a href="https://github.com/lucastgama">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastgama&show_icons=true&bg_color=151515&text_color=858585&title_color=FBFBFB"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastgama&layout=compact&langs_count=7&bg_color=151515&text_color=858585&title_color=FBFBFB"/>
   </div>
 
 <div>
