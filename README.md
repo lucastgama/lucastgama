@@ -2,7 +2,7 @@
   <div>
     <h2> Olá! Sou Lucas Gama, desenvolvedor web 👋</h2>
     <div align='center'> 
-      <img src="https://user-images.githubusercontent.com/50726344/222936171-76e1b6d1-4884-42d8-aa89-68a2e0d6f1d7.gif" width="500" height="300" alt="dev gif"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M3MzgxOTUyZTE1NjdlODU5NTAyMmEyOTczZGFmMDhjYTIzNjYxZSZjdD1n/wcgn5fVDjvR7pdvz4C/giphy.gif" width="500" height="300" alt="dev gif"/>
     </div>
     <div stile="display:inline-block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
